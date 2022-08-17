@@ -1,0 +1,15 @@
+C:\DarinaGit\MySeminarForC3\task23\bin\Debug\net6.0\task23.exe
+C:\DarinaGit\MySeminarForC3\task23\bin\Debug\net6.0\task23.deps.json
+C:\DarinaGit\MySeminarForC3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+C:\DarinaGit\MySeminarForC3\task23\bin\Debug\net6.0\task23.dll
+C:\DarinaGit\MySeminarForC3\task23\bin\Debug\net6.0\task23.pdb
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\task23.dll
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\refint\task23.dll
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\task23.pdb
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+C:\DarinaGit\MySeminarForC3\task23\obj\Debug\net6.0\ref\task23.dll

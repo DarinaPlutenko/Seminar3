@@ -1,0 +1,15 @@
+C:\DarinaGit\MySeminarForC3\task24\bin\Debug\net6.0\task24.exe
+C:\DarinaGit\MySeminarForC3\task24\bin\Debug\net6.0\task24.deps.json
+C:\DarinaGit\MySeminarForC3\task24\bin\Debug\net6.0\task24.runtimeconfig.json
+C:\DarinaGit\MySeminarForC3\task24\bin\Debug\net6.0\task24.dll
+C:\DarinaGit\MySeminarForC3\task24\bin\Debug\net6.0\task24.pdb
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\task24.csproj.AssemblyReference.cache
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\task24.AssemblyInfoInputs.cache
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\task24.AssemblyInfo.cs
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\task24.csproj.CoreCompileInputs.cache
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\task24.dll
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\refint\task24.dll
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\task24.pdb
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\task24.genruntimeconfig.cache
+C:\DarinaGit\MySeminarForC3\task24\obj\Debug\net6.0\ref\task24.dll
